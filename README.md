@@ -4,4 +4,6 @@ Assets are provided by [OpenGameArt.org](https://opengameart.org)
 
 Originally authored by A.Putra, A.Popenka, and M.McConchie and now extended with my individual enhancements.
 
+Alternative version maintained by aforementioned group can be found here: https://github.com/MaxMcconchie/HaskellPlatformer-Group
+
 
